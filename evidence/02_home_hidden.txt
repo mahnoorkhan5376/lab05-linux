@@ -1,0 +1,17 @@
+total 64
+drwxr-x--- 11 mahnoorkhan5376 mahnoorkhan5376 4096 Oct 16 06:51 .
+drwxr-xr-x  3 root            root            4096 Sep 15 18:04 ..
+-rw-------  1 mahnoorkhan5376 mahnoorkhan5376 2596 Oct 10 09:57 .bash_history
+-rw-r--r--  1 mahnoorkhan5376 mahnoorkhan5376  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 mahnoorkhan5376 mahnoorkhan5376 3771 Feb 13  2026 .bashrc
+drwx------  2 mahnoorkhan5376 mahnoorkhan5376 4096 Sep 15 18:19 .cache
+-rw-rw-r--  1 mahnoorkhan5376 mahnoorkhan5376  175 Oct 16 06:50 .gitconfig
+drwx------  3 mahnoorkhan5376 mahnoorkhan5376 4096 Oct 10 08:44 .local
+-rw-r--r--  1 mahnoorkhan5376 mahnoorkhan5376  807 Feb 13  2026 .profile
+drwx------  2 mahnoorkhan5376 mahnoorkhan5376 4096 Oct 10 11:27 .ssh
+drwxrwxr-x  3 mahnoorkhan5376 mahnoorkhan5376 4096 Oct 10 11:51 Assignment01
+drwxrwxr-x  6 mahnoorkhan5376 mahnoorkhan5376 4096 Oct 10 14:17 CC
+drwxrwxr-x  3 mahnoorkhan5376 mahnoorkhan5376 4096 Oct 10 08:17 Gitea
+drwxrwxr-x  5 mahnoorkhan5376 mahnoorkhan5376 4096 Oct 16 06:53 lab05-linux
+drwxrwxr-x  3 mahnoorkhan5376 mahnoorkhan5376 4096 Oct 10 13:11 mahnoorkhan5376.github.io
+drwxrwxr-x  2 mahnoorkhan5376 mahnoorkhan5376 4096 Sep 18 08:34 mylab
